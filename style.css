@@ -1,0 +1,9 @@
+#jogos {width: 100%;height: 450px;}
+h1{text-align: center; font-size: 35px; color: #000000;border: 5px solid #000000; height: 60px; padding: 10px;}
+h2{color: #ffffff;}
+p{ text-align: center; font-size: 35px; }
+body{background: #ffffff;}
+.imagem-do-jogo{width: 50%;height: 120px;
+}
+.imagem-do-controle{width: 50%;height: 120px;
+}
